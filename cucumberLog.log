@@ -1,0 +1,2019 @@
+2024-01-29 16:01:28,781 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:01:29,407 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1528e1900acd6d46bf185153e56e58a1)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:01:33,975 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 16:27:48,664 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:27:49,288 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (87932054a187a3c5fe2f84440091057b)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:27:55,356 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 16:37:47,901 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:37:48,936 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7afe544902de737e2e4143123469a2e8)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:42:42,719 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:42:43,088 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (c2bcb28d1d6cd4597d9300a67e7e791c)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:42:47,211 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 16:43:49,462 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:43:49,962 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (8aaa973dade6deb24c79c91eb1836ab8)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:58:37,039 INFO  [Log] Main Page opened successfully 
+2024-01-29 16:58:37,473 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (930560c4e3dd70b9a1b1349baf6be695)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 16:58:40,859 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (930560c4e3dd70b9a1b1349baf6be695)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 16:58:56,074 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (930560c4e3dd70b9a1b1349baf6be695)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 16:58:56,332 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (930560c4e3dd70b9a1b1349baf6be695)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 16:58:56,840 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 17:00:36,468 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:00:36,914 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (8ee94faef7dff8dd8af094c8f8013479)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:00:40,834 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (8ee94faef7dff8dd8af094c8f8013479)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:00:55,081 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (8ee94faef7dff8dd8af094c8f8013479)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:00:55,266 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (8ee94faef7dff8dd8af094c8f8013479)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:04:56,086 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:04:56,523 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1a6485f9e6aa83d821706476f8e6eb02)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:05:00,768 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1a6485f9e6aa83d821706476f8e6eb02)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:05:15,805 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1a6485f9e6aa83d821706476f8e6eb02)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:05:16,236 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1a6485f9e6aa83d821706476f8e6eb02)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:05:16,714 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (1a6485f9e6aa83d821706476f8e6eb02)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:05:45,699 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:05:46,171 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (e3876149b6fc6f125c00a25a69735d35)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:05:49,753 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (e3876149b6fc6f125c00a25a69735d35)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:06:04,259 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (e3876149b6fc6f125c00a25a69735d35)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:06:04,498 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (e3876149b6fc6f125c00a25a69735d35)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:06:05,385 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (e3876149b6fc6f125c00a25a69735d35)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:06:05,428 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:06:39,983 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:06:40,412 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:06:44,064 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:06:58,388 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:06:58,578 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:06:59,158 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:06:59,174 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:07:07,381 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:07:07,738 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:07:08,445 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:07:08,452 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:07:09,082 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a0c60bb86784604124cac40d3e9c9074)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:08:02,406 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:08:04,154 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:08:07,622 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:08:19,575 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:08:19,816 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:08:20,368 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:08:20,392 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:08:23,286 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:08:23,671 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:08:24,395 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:08:24,404 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:08:25,094 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (6a052302347e38ef525e0d56120081dc)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:10:22,047 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:10:22,517 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:10:26,921 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:10:40,813 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:10:41,015 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:10:41,567 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:10:41,583 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:10:43,316 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:10:43,919 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:10:44,494 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:10:44,502 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:10:45,148 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a9fed374048fdc17b7323509c73c9c54)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:12:32,518 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:12:32,941 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:12:36,633 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:12:51,375 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:12:51,571 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:12:52,198 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:12:52,218 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:13:02,798 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:13:02,800 INFO  [BasePageMethods] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63425/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35f667c6447cddcd8b8b7ac4b29fc6ce--------- clicked by js  
+2024-01-29 17:13:03,993 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:13:03,993 INFO  [BasePageMethods] org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="agreement_text">...</span> is not clickable at point (952, 506). Other element would receive the click: <iframe data-testid="pages-register-index-fnkwbxnok" title="Privacy Policy" srcdoc="<script type=&quot;text/javascript&quot; id=&quot;hs-script-loader&quot; async defer src=&quot;//js.hs-scripts.com/22080121.js&quot; defer=&quot;defer&quot;></script>
+<style>
+    body {
+        padding: 25px 0px 0px 0px;
+        width: 80%;
+        margin: 0 auto;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    table td ol {
+        margin: 0;
+        padding: 0px 25px;
+    }
+
+    li {
+        margin: 15px 0px;
+    }
+</style>
+<p style=&quot;text-align:center;text-decoration: underline;font-weight: bold;&quot;>Privacy Policy</p>
+<p>
+Your privacy is important to Timus Networks, Inc. (“<b>Timus</b>”, “<b>we</b>,” or “<b>us</b>”). This Privacy Policy
+describes the
+information practices of Timus in connection with the Website, the Services, the Management Portal, and the Timus
+Connect application, including what type of information is gathered and tracked, how the information is used, and
+with whom the information is shared. As described below, this Privacy Policy applies to your interactions with the
+Website, Management Portal, Timus Connect, as well as any information that you provide to Timus or Partners in
+connection with the Services.
+</p>
+<p>
+<b>BY USING THE WEBSITE, SERVICES, MANAGEMENT PORTAL, OR TIMUS CONNECT, YOU INDICATE YOUR UNDERSTANDING AND
+ACCEPTANCE
+OF THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THE WEBSITE, SERVICES,
+MANAGEMENT
+PORTAL, OR TIMUS CONNECT.</b>
+</p>
+<p>
+Please carefully read this Privacy Policy as it may have changed since your last visit to the Website, Management
+Portal, or Timus Connect. Continued use of the Website, Management Portal, or Timus Connect indicates your
+understanding and acceptance of any changes made to this Privacy Policy and posted to the Website, Management
+Portal, and Timus Connect. This Privacy Policy does not cover the privacy practices of any third-party websites to
+which the Website may link.
+</p>
+<ul style=&quot;list-style: none;&quot;>
+<li><b>Definitions:</b></li>
+<ul style=&quot;list-style: none;padding:0;margin:0;&quot;>
+<li>- “<b>Affiliate</b>” means any entity that, directly or indirectly, through one or more
+intermediaries,
+controls, is controlled by, or is under common control with Timus.</li>
+<li>- “<b>Contact Form</b>” means a form available on the Website that can be used to submit
+information to
+Timus for any purpose, such as contacting Timus or requesting a demonstration of the products or
+services offered by Timus.</li>
+<li>- “<b>Customer</b>” means an entity or person that has purchased the Services to use within
+their business
+and not for resale.</li>
+<li>- “<b>End User</b>” means those individuals that use the Management Portal or Timus Connect,
+whether on
+behalf of a Partner or Customer, including use of a device monitored by a Customer or Partner
+through Timus Connect.</li>
+<li>- “<b>Management Portal</b>” means the web page through which Partners, Customers, or their End
+Users can
+configure the security and network settings related to the Services.</li>
+<li>- “<b>Partner</b>” means a Timus authorized reseller of, or managed services provider for, the
+Services and
+provider of other professional services related thereto.</li>
+<li>- “<b>Services</b>” collectively refers to: (i) the features and functionality accessible
+through the
+Management Portal and Timus Connect, and (ii) support and maintenance services performed by
+Timus.
+All references in this Privacy Policy to “use of the Services” or “using the Services” include
+use
+of the Management Portal and Timus Connect.</li>
+<li>- “<b>Timus Connect</b>” refers to the mobile, laptop, or desktop application available for
+download from
+the Website or a third-party app store or other distribution platform for those operating
+systems
+supported by Timus, which Timus makes available as part of the Services.</li>
+<li>- “<b>Website</b>” means <a target=&quot;_blank&quot; href=&quot;https://www.timusnetworks.com/&quot;>https://www.timusnetworks.com/</a></li>
+<li>- “<b>Website Visitor</b>” means any person who uses the Website, which includes browsing the
+Website or
+submitting a Contact Form.</li>
+</ul>
+</ul>
+<p>
+<b>Applicability:</b> If you are a Website Visitor, Customer, Partner, or End User, please read this Privacy Policy
+carefully as it applies to you. This Privacy Policy applies to all information collected by or on behalf of Timus in
+connection with the following:
+</p>
+<ul>
+<li>Use of the Website;</li>
+<li>Procurement and use of the Services;</li>
+<li>Use of the Management Portal; and</li>
+<li>Use of Timus Connect.</li>
+</ul>
+<p>
+Please note that certain information may be collected from Customers by Partners on behalf of Timus, such as
+information provided when a Customer purchases or registers for Services, and this Privacy Policy only covers the
+practices of Timus with respect to such information. This Privacy Policy does not cover the practices of Partners or
+any other third parties, nor does it cover information collected by Partners for purposes other than on behalf of
+Timus in connection with the Services. For example, if a Partner provides its own services to Customers (such as
+technical support or other professional services), the exchange of information in connection with such services is
+not subject to this Privacy Policy.
+</p>
+<p>
+<b>Information we collect:</b> We collect several types of information from and about Website Visitors, Customers,
+Partners, and End Users, including the following:
+</p>
+<ul>
+<li>
+Personal information, which is data that reasonably can be used to identify or describe an individual, such as
+your name, business affiliation, postal address, telephone number, or email address. We collect personal
+information only when you voluntarily provide it to us. You do not need to provide personal information to
+simply browse the Website. You will need to provide personal information to access and use the Services, and you
+have the right to request that we delete your personal information. The personal information we collect (if you
+provide it to us) may include, but is not limited to:
+</li>
+<ul style=&quot;list-style: circle;&quot;>
+<li>your first and last name;</li>
+<li>your business affiliation;</li>
+<li>your home, billing, or other physical address (including street name, city/town, state/province, postal
+code);</li>
+<li>your email address;</li>
+<li>your telephone number;</li>
+<li>your financial information, including credit card or bank account information; and</li>
+<li>any other identifier that permits Timus to make physical or online contact with you.</li>
+</ul>
+<li>
+Information that is about you but individually does not identify you.
+</li>
+<li>
+Information about your internet connection, usage details, and the equipment you use to access the Website or
+Services or any component thereof.
+</li>
+</ul>
+<p>
+<b>How we Collect Your Information:</b> Timus collects your information directly from you when you provide it to us,
+as
+described below in this section of the Privacy Policy. We may also collect certain information automatically as you
+use the Website or Services. Please review the section further below in this Privacy Policy titled “Cookies and
+Tracking Technologies” for more information on our automatic collection practices.
+</p>
+<p>
+We may collect information, including personal information, directly from you when:
+</p>
+<ul>
+<li>you submit a Contact Form;</li>
+<li>you use the Services;</li>
+<li>you create an account to access the Management Portal or Timus Connect;</li>
+<li>you subscribe to receive emails or newsletters from Timus;</li>
+<li>you request a demonstration of the Services; </li>
+<li>you participate in surveys and evaluations; </li>
+<li>you request information or materials;</li>
+<li>you apply for a position, or submit your resume to Timus;</li>
+<li>you submit questions or comments to Timus;</li>
+<li>you submit any other information to Timus; or</li>
+<li>you contact Timus by any means using information available on the Website or through the Services.</li>
+</ul>
+<p>
+We also may collect your information from Partners if you provide information to them in connection with procuring
+or using Services.
+</p>
+<p>
+<b>How We Use Your Information:</b> Timus collects and uses your information, including your personal information,
+to
+operate and improve the Website, Management Platform, and Timus Connect, and to deliver the services or carry out
+the transactions you have requested. These uses may include providing you with more effective customer service;
+making the Website, Management Platform, and Timus Connect easier to use by eliminating the need for you to
+repeatedly enter the same information; performing research and analysis aimed at improving our products, services,
+and technologies; and displaying content and advertising that are customized to your interests and preferences.
+</p>
+<p>
+We also use your personal information to communicate with you. We may send certain mandatory service communications
+such as welcome letters, information updates, billing information, information on technical service issues, and
+security announcements. We may also contact you to inform you of other products or services available from Timus and
+its Affiliates.
+</p>
+<p>
+Personal information collected on the Website and through the Services may be stored and processed in the United
+States or any other country in which Timus or its Affiliates, subsidiaries or agents maintain facilities, and by
+using the Website or Services, you consent to any such transfer of information outside of your country.
+</p>
+<p>
+<b>Sharing of Information:</b> Timus will not sell, rent, or lease your information, including your personal
+information,
+to others. Timus shares personal information with its Affiliates and other companies working on our behalf. Except
+as described in this Privacy Policy, we will not disclose your personal information to third parties for their own
+marketing purposes unless you have provided consent.
+</p>
+<p>
+Timus may share your information, including personal information, with its Affiliates. The information submitted
+through Contact Forms may be stored and processed by Affiliates in the United States or any other country in which
+the Affiliates maintain facilities, and by submitting a Contact Form, you consent to any such transfer of
+information outside of your country.
+</p>
+<p>
+In some cases, we use third parties to collect, use, analyze, and otherwise process information, including personal
+information, on our behalf. This includes our use of certain products and services provided by third parties for the
+purposes of enabling certain features on the Website, Management Portal, and Timus Connect. For example, if you
+submit a Contact Form or otherwise provide information to us through the Website, the information you submit may be
+processed by third-party providers that we use to enable Contact Forms and other interactions on the Website. We
+occasionally hire other third parties to provide limited services on our behalf, such as handling the processing and
+delivery of mailings, providing customer support, hosting websites, processing transactions, or performing
+statistical analysis of our services. For example, we may use a third-party payment processer to facilitate
+purchases of subscriptions to use the Services. Service providers will be permitted to obtain only the personal
+information they need to deliver the service. They are required to maintain the confidentiality of the information
+and are prohibited from using it for any other purpose.
+</p>
+<p>
+If you request something from the Website or through the Services (for example, a product or service, a callback, or
+specific marketing materials), we will use the information you provide to fulfill your request or inquiry. To help
+us do this, we may share information with our providers or Partners.
+</p>
+<p>
+We may access or disclose your information, including your personal information, if we believe such action is
+necessary to: (a) comply with the law or legal process served on Timus; (b) protect and defend the rights or
+property of Timus (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the
+personal safety of our customers or members of the public.
+</p>
+<p>
+<b>Cookies and Tracking Technologies:</b> When you use the Website or Services, we may use automatic data collection
+technologies to collect certain information about you and your device. The type of information we may automatically
+collect when you use the Website or Services includes:
+</p>
+<ul>
+<li><i>Usage Details.</i> We may automatically collect certain details of your access to and use of the Website or
+Services, including traffic data, logs, browsing actions and patterns, and your activities and interactions on
+the Website, Management Platform, and Timus Connect.</li>
+<li><i>Device Information.</i> We may collect information about your device and internet connection, including the
+device’s unique identifier, IP address, operating system, browser type, mobile network information, and
+telephone number.</li>
+<li><i>Location Information.</i> When you use Timus Connect, we may also collect real-time information about the
+location
+of your device.</li>
+<li><i>Behavioral Tracking.</i> We also may use tracking technologies to collect information about your online
+activities
+over time and across third-party websites or other online services. <a href=&quot;Click here&quot;> Click here </a>to opt out of behavioral
+tracking. </li>
+</ul>
+<p>
+If you do not want us to automatically collect these types of information, do not use the Website or Services and do
+not download Timus Connect.
+</p>
+<p>
+The technologies we use for automatic information collection include cookies (whether browser cookies or mobile
+cookies). A cookie is a small file placed on your device. Cookies are commonly used to track internet activity and
+provide an enhanced experience when using the internet. Timus may use cookies to collect non-personally identifiable
+information. We use cookies to help us better understand Website usage in the aggregate so that we know what areas
+of the Website users prefer. Third party vendors, including Google, may use cookies to serve ads to you while you
+are using the Website or Services based on your prior visits. It may be possible to refuse to accept cookies by
+activating the appropriate setting on your browser or smartphone. However, if you select this setting, you may be
+unable to access certain parts or features of the Website or Services.
+</p>
+<p>
+In addition to cookies, we may use additional tracking technologies in connection with your use of the Services.
+These include technologies that track your activities on the Management Platform and Timus Connect and additional
+information about your device such as its configuration settings and patterns of usage among multiple devices. We
+use these technologies to collect information that is relevant to the nature of the Services, and we do not sell or
+share the information collected through these technologies with any third parties.
+</p>
+<p>
+<b>Your Choices:</b> Timus provides a number of ways for you to “opt-out” of receiving additional information from
+us, or
+having us provide your personal information to our partners. We may offer you these choices at the time you give us
+your personal information.
+</p>
+<p>
+If you do not wish to continue receiving certain marketing materials (e.g., email messages), you can opt-out of
+receiving these materials by following the unsubscribe instructions provided in the materials. This option does not
+apply to communications primarily for the purpose of administering orders, contracts, support, product safety
+warnings, software updates, or other administrative and transactional notices.
+</p>
+<p>
+<b>Updating Your Information:</b> To modify the contact information that you have provided to us, you can contact us
+at
+<a href=&quot;/cdn-cgi/l/email-protection#381717545d5f5954784c51554d4b565d4c4f574a534b165b5755&quot;><span class=&quot;__cf_email__&quot; data-cfemail=&quot;38545d5f5954784c51554d4b565d4c4f574a534b165b5755&quot;>[email&amp;#160;protected]</span></a> or by mailing us at 245 First Street,
+Riverview II, 18th Floor, Cambridge, MA 02142.
+</p>
+<p>
+<b>Safeguarding your information:</b> In order to protect your information, including your personal information,
+from
+improper disclosure, Timus uses commercially reasonable efforts to maintain a secure operating environment to
+protect any information we collect. We use the most accurate and current information you provide in order to process
+your request. Once received, we limit access of your information to only those employees with a legitimate business
+need to review them. Furthermore, whenever you transmit personal information, such as credit card information, to us
+through our website, we provide you access to a third-party server that allows encryption across the internet.
+Browsers offer varying degrees of security, particularly in regard to encryption. Even the same version of a browser
+can come with different levels of encryption. See your browser’s settings or documentation for more information.
+Finally, we take care to dispose of your information properly so that third parties will not be able to access it.
+This includes destroying, erasing, or making unreadable the information. While we are committed to protecting your
+privacy, please be aware that no transaction over the internet can be completely secure.
+</p>
+<p>
+<b>Enforcement:</b> Timus regularly reviews its compliance with this Privacy Policy. Please feel free to direct any
+questions or concerns regarding this statement or our treatment of personal information by contacting us at the link
+or address indicated below.
+</p>
+<p>
+<b>Links to Other Websites:</b> The Website and Services may provide links to third-party websites, such as those of
+our
+business partners, payment processors, and online advertisers. You should review their privacy policies to learn
+more about what, why, and how they collect and use personally identifiable information.
+</p>
+<p>
+For Questions or Concerns: If you have questions or concerns regarding this statement, you should first contact
+<a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;94f8f1f3f5f8d4e0fdf9e1e7faf1e0e3fbe6ffe7baf7fbf9&quot;>[email&amp;#160;protected]</a>. Other correspondence may be sent to:
+</p>
+<p style=&quot;margin-left:50px;&quot;>
+Timus Networks, Inc.<br>
+245 First Street, Riverview II, 18th Floor<br>
+Cambridge, MA 02142
+</p>
+<p>
+<b>Changes to this Privacy Policy:</b> Timus reserves the right to change this Privacy Policy from time to time. If
+we do
+make changes, the revised Privacy Policy will be posted on the Website.
+</p>
+<p>
+<b><u>NOTICE TO CHILDREN UNDER THE AGE OF 18 AND THEIR PARENTS OR LEGAL GUARDIANS:</u></b> THE WEBSITE AND SERVICES
+ARE INTENDED
+FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF
+YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO TIMUS. IF YOU KNOW OF ANYONE UNDER
+THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE
+INFORMATION.
+</p>
+<p>
+<b><u>SPECIFIC PROVISIONS FOR CALIFORNIA RESIDENTS:</u></b> This section of the Privacy Policy applies only to
+individuals who
+reside in California. The California Consumer Privacy Act of 2018, as amended and supplemented by the California
+Privacy Rights Act of 2020 (collectively the “CCPA”) provides additional rights to know, delete and opt out, and
+requires businesses collecting or disclosing Personal Information to provide notices and means to exercise rights.
+For Purposes of this section, “Personal Information” has the definition set forth in the CCPA.
+</p>
+<p>
+<b><i>California Notice of Collection:</i></b> We or our service providers have collected the following categories
+of information
+enumerated in the CCPA in connection with the Websiteand Services:
+</p>
+<ul>
+<li>First and last name, home, billing or other physical address (including street name, city/town,
+state/province, postal code, and country of origin), e-mail address, and telephone number, to the extent you are
+interacting with the Website, Management Portal, or Timus Connect;</li>
+<li>Information, services and products considered, accepted, rejected and other use data;</li>
+<li>Any other identifier that permits us to make physical or online contact with you; </li>
+<li>Internet activity, including history of visiting and interacting with the Website, Management Portal, or Timus
+Connect, browser type, browser language and other information collected automatically; and</li>
+<li>Any other information you have chosen to provide to us through the Website, Management Portal, or Timus
+Connect.</li>
+</ul>
+<p>
+We do not generally sell information as the term “sell” is traditionally understood. However, to the extent “sale”
+under the CCPA would be interpreted to include any of the activities described in the “Sharing of information”
+section above, we will comply with applicable law as to such activity.
+</p>
+<p>
+<b><i>Right to Know and Delete:</i></b> If you are a California resident, you have the right to delete Personal
+Information we
+have collected about you and you have the right to know certain information about our data practices. In particular,
+you have the right to request the following:
+</p>
+<ul>
+<li>Categories of Personal Information we have collected about you;</li>
+<li>Categories of sources from which the Personal Information was collected;</li>
+<li>Categories of Personal Information about you we disclosed for a business purpose or sold;</li>
+<li>Categories of third parties to whom the Personal Information was sold or disclosed for a business purpose;
+</li>
+<li>Business or commercial purpose for collecting or selling the Personal Information; and</li>
+<li>Specific pieces of Personal Information we have collected about you.</li>
+</ul>
+<p>
+To exercise any of these rights, please submit a request to us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;68040d0f0904281c01051d1b060d1c1f071a031b460b0705&quot;>[email&amp;#160;protected]</a>. In the request, please
+specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your
+request within ten (10) days. We may require specific information from you to help us verify your identity and
+process your request. Please note that, in many instances, we do not collect types of information that enable us to
+identify you. As such, if we do not have information that permits us to verify your identity, we may deny your
+requests to know or delete. A request for access can be made by you only twice within a twelve (12) month period.
+</p>
+<p>
+<b><i>Right to Opt Out:</i></b> Under the CCPA, you have the right to opt out of the sale of your Personal
+Information to third
+parties at any time. Timus does not “sell” your Personal Information as it is currently defined under the CCPA. You
+may contact us by emailing us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;0d61686a6c614d796460787e6368797a627f667e236e6260&quot;>[email&amp;#160;protected]</a> if you have any questions or concerns.
+</p>
+<p>
+<b><i>Authorized Agent:</i></b> You can designate an authorized agent to submit requests on your behalf. However, we
+will require
+written proof of the agent’s permission to do so and verify your identity directly.
+</p>
+<p>
+<b><i>Right to Non-Discrimination:</i></b> You have the right not to receive discriminatory treatment by us for the
+exercise of
+any your rights.
+</p>
+<p>
+<b><i>California Do-Not-Track Notice:</i></b> We do not track our Website users over time and across third party
+websites and
+therefore do not respond to Do Not Track (DNT) signals.
+</p>
+<p>
+<b><u>NOTICE TO INTERNATIONAL RESIDENTS:</u></b> Timus is headquartered in the United States. The Website,
+Management Portal, and
+Timus Connect are primarily operated and managed on servers located and operated within the United States. In order
+to use the Website or Services, you may be sending your personal information outside of the country where you reside
+or are located, including to the United States. Accordingly, if you reside or are located outside of the United
+States, your personal information may be transferred outside of the country where you reside or are located,
+including to countries that may not or do not provide the same level of protection for your personal information. We
+are committed to protecting the privacy and confidentiality of personal information when it is transferred.
+</p>
+<p>
+<b><u>ADDITIONAL INFORMATION FOR USERS IN THE EUROPEAN ECONOMIC AREA AND UNITED KINGDOM:</u></b> Timus is
+established in the
+United States and has operations and service providers in the United States and throughout the world. As such, we
+and our service providers may transfer your personal information to, or access it in, jurisdictions that may not
+provide levels of data protection equivalent to those in your country of residence. By using the Website or
+Services, or otherwise interacting with us, regardless of where you live or where you provide information to us, you
+consent to our use and our service providers’ use of your personal information worldwide and to the transfer of your
+personal information to countries outside of your country of residence, including the United States. In certain
+circumstances, courts, regulatory agencies, law enforcement agencies, or security authorities in those other
+countries may be entitled to access your personal information.
+</p>
+<p>
+Timus is aware of the July 16, 2020 ruling by the European Court of Justice invalidating the EU-US Privacy Shield
+Framework. Accordingly, we will take adequate measures designed to protect the transfer of Personal Information of
+individuals in the European Economic Area (EU Member States, Iceland, Liechtenstein and Norway) (“<b>EEA</b>”), such
+as
+relying on the European Commission-approved Standard Contractual Clauses (“<b>EU SCCs</b>”) as a legal mechanism for
+such
+transfer, or other adequate transfer mechanism as required under relevant data protection laws, as well as
+additional safeguards, where appropriate. A copy of these clauses may be obtained by contacting us at the email
+address listed below.
+</p>
+<p>
+For transfers to or from the United Kingdom (“<b>UK</b>”), we make use of the EU SCCs, as modified by the UK’s
+International Data Transfer Addendum (collectively the “<b>UK SCCs</b>”). For individuals located in the EEA or the
+UK, the
+term “personal information,” as used in this section, is equivalent to “personal data” under applicable European and
+UK data protection legislation.
+</p>
+<p>
+If you are located in the EEA, the UK, or Switzerland, you have certain rights and protections under applicable law
+regarding the processing of your personal information, as defined by the General Data Protection Regulation
+(“<b>GDPR</b>”), and this section applies to you.
+</p>
+<p>
+<b><i>Legal Basis for Processing:</i></b> When we process your personal information, we will do so in reliance on
+the following
+lawful bases:
+</p>
+<ul>
+<li>To perform our responsibilities under our contract with you (e.g., providing the services you requested).</li>
+<li>When we have a legitimate interest in processing your personal information to operate our business or protect
+our interests (e.g., to provide, maintain, and improve our services, conduct data analytics, and communicate
+with you).</li>
+<li>To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have
+opted out of non-administrative communications).</li>
+<li>When we have your consent to do so (e.g., when you opt in to receive non-administrative communications from
+us). When consent is the legal basis for our processing your personal information, you may withdraw such consent
+at any time.</li>
+</ul>
+<p>
+<b><i>Data Retention:</i></b> We store personal information associated with your account for as long as your account
+remains
+active. If you close your account, we will delete your account data within thirty (30) days, unless reasonably
+necessary to comply with our legal, regulatory, or other compliance obligations. We store other data for as long as
+necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes,
+including to meet our legal, regulatory, or other compliance obligations.
+</p>
+<p>
+<b><i>Your Rights:</i></b> For users in the European Union, according to the GDPR, you have the following statutory
+rights:
+</p>
+<ul>
+<li><b>Information.</b> At the point where personal information is collected from the data subject, as defined by
+the GDPR,
+or obtained from another source, there is a requirement to inform the data subject about our use of that
+personal
+information and the rights of data subjects over it. Compliance with this right is provided within this Privacy
+Policy.</li>
+<li><b>Access.</b> You have the right to obtain confirmation as to whether or not personal information concerning
+you is
+being processed, and, where that is the case, all necessary information to make the process transparent. You
+also
+have the right to obtain a copy of your personal information being processed.</li>
+<li><b>Rectification.</b> You have the right to require rectification of inaccurate data about you.</li>
+<li><b>Erasure.</b> You have the right to ask for the deletion of your data in certain circumstances.</li>
+<li><b>Restrict processing.</b> You have the right to restrict processing of data under certain specified
+circumstances.
+</li>
+<li><b>Data portability.</b> You have the right to request for the receipt or the transfer to another organization,
+in a
+machine-readable form, of your personal information.</li>
+<li><b>Object to processing.</b> You have the right to ask us to stop using all or some of your personal information
+under
+certain specified circumstances.</li>
+<li><b>Right to withdraw consent.</b> When you have given your explicit consent for the processing of your data, you
+can
+withdraw it at any time without justification. The withdrawal of consent will not affect the lawfulness of
+processing based on consent before its withdrawal.</li>
+</ul>
+<p>
+If would like to exercise your rights, please let us know by sending an email at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;8ae6efedebe6cafee3e7fff9e4effefde5f8e1f9a4e9e5e7&quot;>[email&amp;#160;protected]</a>.
+</p>
+<p>
+You also have the right to lodge a complaint with your local Data Protection Authority or to the Data Protection
+Authority where the alleged infringement took place.
+</p>
+<p>
+<i>This Privacy Policy was last amended on 19 January 2023.</i>
+</p>
+<script data-cfasync=&quot;false&quot; src=&quot;/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js&quot;></script><script src=&quot;https://www.timusnetworks.com/theme/assets/js/jquery-3.6.0.min.js&quot;></script>
+<script>
+    $(document).ready(function() {
+        var cookie = $(&quot;a[href$='Click here']&quot;);
+        cookie.attr('href', 'javascript:void(0);');
+        cookie.removeAttr('target');
+
+        $(cookie).click(function() {
+            var _hsp = window._hsp = window._hsp || [];
+            _hsp.push(['showBanner']);
+        })
+
+    })
+</script>" style="height: 500px; width: 100%;"></iframe>
+  (Session info: chrome=121.0.6167.86)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [35f667c6447cddcd8b8b7ac4b29fc6ce, clickElement {id=832785C3CEF09AB66051B4A10D48617F_element_297}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63425}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63425/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]]
+Session ID: 35f667c6447cddcd8b8b7ac4b29fc6ce--------- clicked by js  
+2024-01-29 17:13:04,688 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:13:04,695 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:13:05,349 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35f667c6447cddcd8b8b7ac4b29fc6ce)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:13:41,942 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:13:42,403 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:13:46,339 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:14:01,178 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:14:01,776 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:14:02,093 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:14:02,108 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:14:02,119 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:14:11,597 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:14:11,940 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:14:12,664 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:14:12,672 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:14:12,678 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:14:13,317 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (55b8ea3a8f2280bf3c636abb277458f3)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:16:30,162 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:16:30,640 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:16:34,121 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:16:47,543 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:16:47,775 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:16:48,331 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:16:48,353 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:16:48,365 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:16:58,772 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:16:58,774 INFO  [BasePageMethods] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63610/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd7d5b586b07eea4616cdba9febafd5f--------- clicked by js  
+2024-01-29 17:16:59,928 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:16:59,929 INFO  [BasePageMethods] org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="agreement_text">...</span> is not clickable at point (952, 506). Other element would receive the click: <iframe data-testid="pages-register-index-fnkwbxnok" title="Privacy Policy" srcdoc="<script type=&quot;text/javascript&quot; id=&quot;hs-script-loader&quot; async defer src=&quot;//js.hs-scripts.com/22080121.js&quot; defer=&quot;defer&quot;></script>
+<style>
+    body {
+        padding: 25px 0px 0px 0px;
+        width: 80%;
+        margin: 0 auto;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    table td ol {
+        margin: 0;
+        padding: 0px 25px;
+    }
+
+    li {
+        margin: 15px 0px;
+    }
+</style>
+<p style=&quot;text-align:center;text-decoration: underline;font-weight: bold;&quot;>Privacy Policy</p>
+<p>
+Your privacy is important to Timus Networks, Inc. (“<b>Timus</b>”, “<b>we</b>,” or “<b>us</b>”). This Privacy Policy
+describes the
+information practices of Timus in connection with the Website, the Services, the Management Portal, and the Timus
+Connect application, including what type of information is gathered and tracked, how the information is used, and
+with whom the information is shared. As described below, this Privacy Policy applies to your interactions with the
+Website, Management Portal, Timus Connect, as well as any information that you provide to Timus or Partners in
+connection with the Services.
+</p>
+<p>
+<b>BY USING THE WEBSITE, SERVICES, MANAGEMENT PORTAL, OR TIMUS CONNECT, YOU INDICATE YOUR UNDERSTANDING AND
+ACCEPTANCE
+OF THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THE WEBSITE, SERVICES,
+MANAGEMENT
+PORTAL, OR TIMUS CONNECT.</b>
+</p>
+<p>
+Please carefully read this Privacy Policy as it may have changed since your last visit to the Website, Management
+Portal, or Timus Connect. Continued use of the Website, Management Portal, or Timus Connect indicates your
+understanding and acceptance of any changes made to this Privacy Policy and posted to the Website, Management
+Portal, and Timus Connect. This Privacy Policy does not cover the privacy practices of any third-party websites to
+which the Website may link.
+</p>
+<ul style=&quot;list-style: none;&quot;>
+<li><b>Definitions:</b></li>
+<ul style=&quot;list-style: none;padding:0;margin:0;&quot;>
+<li>- “<b>Affiliate</b>” means any entity that, directly or indirectly, through one or more
+intermediaries,
+controls, is controlled by, or is under common control with Timus.</li>
+<li>- “<b>Contact Form</b>” means a form available on the Website that can be used to submit
+information to
+Timus for any purpose, such as contacting Timus or requesting a demonstration of the products or
+services offered by Timus.</li>
+<li>- “<b>Customer</b>” means an entity or person that has purchased the Services to use within
+their business
+and not for resale.</li>
+<li>- “<b>End User</b>” means those individuals that use the Management Portal or Timus Connect,
+whether on
+behalf of a Partner or Customer, including use of a device monitored by a Customer or Partner
+through Timus Connect.</li>
+<li>- “<b>Management Portal</b>” means the web page through which Partners, Customers, or their End
+Users can
+configure the security and network settings related to the Services.</li>
+<li>- “<b>Partner</b>” means a Timus authorized reseller of, or managed services provider for, the
+Services and
+provider of other professional services related thereto.</li>
+<li>- “<b>Services</b>” collectively refers to: (i) the features and functionality accessible
+through the
+Management Portal and Timus Connect, and (ii) support and maintenance services performed by
+Timus.
+All references in this Privacy Policy to “use of the Services” or “using the Services” include
+use
+of the Management Portal and Timus Connect.</li>
+<li>- “<b>Timus Connect</b>” refers to the mobile, laptop, or desktop application available for
+download from
+the Website or a third-party app store or other distribution platform for those operating
+systems
+supported by Timus, which Timus makes available as part of the Services.</li>
+<li>- “<b>Website</b>” means <a target=&quot;_blank&quot; href=&quot;https://www.timusnetworks.com/&quot;>https://www.timusnetworks.com/</a></li>
+<li>- “<b>Website Visitor</b>” means any person who uses the Website, which includes browsing the
+Website or
+submitting a Contact Form.</li>
+</ul>
+</ul>
+<p>
+<b>Applicability:</b> If you are a Website Visitor, Customer, Partner, or End User, please read this Privacy Policy
+carefully as it applies to you. This Privacy Policy applies to all information collected by or on behalf of Timus in
+connection with the following:
+</p>
+<ul>
+<li>Use of the Website;</li>
+<li>Procurement and use of the Services;</li>
+<li>Use of the Management Portal; and</li>
+<li>Use of Timus Connect.</li>
+</ul>
+<p>
+Please note that certain information may be collected from Customers by Partners on behalf of Timus, such as
+information provided when a Customer purchases or registers for Services, and this Privacy Policy only covers the
+practices of Timus with respect to such information. This Privacy Policy does not cover the practices of Partners or
+any other third parties, nor does it cover information collected by Partners for purposes other than on behalf of
+Timus in connection with the Services. For example, if a Partner provides its own services to Customers (such as
+technical support or other professional services), the exchange of information in connection with such services is
+not subject to this Privacy Policy.
+</p>
+<p>
+<b>Information we collect:</b> We collect several types of information from and about Website Visitors, Customers,
+Partners, and End Users, including the following:
+</p>
+<ul>
+<li>
+Personal information, which is data that reasonably can be used to identify or describe an individual, such as
+your name, business affiliation, postal address, telephone number, or email address. We collect personal
+information only when you voluntarily provide it to us. You do not need to provide personal information to
+simply browse the Website. You will need to provide personal information to access and use the Services, and you
+have the right to request that we delete your personal information. The personal information we collect (if you
+provide it to us) may include, but is not limited to:
+</li>
+<ul style=&quot;list-style: circle;&quot;>
+<li>your first and last name;</li>
+<li>your business affiliation;</li>
+<li>your home, billing, or other physical address (including street name, city/town, state/province, postal
+code);</li>
+<li>your email address;</li>
+<li>your telephone number;</li>
+<li>your financial information, including credit card or bank account information; and</li>
+<li>any other identifier that permits Timus to make physical or online contact with you.</li>
+</ul>
+<li>
+Information that is about you but individually does not identify you.
+</li>
+<li>
+Information about your internet connection, usage details, and the equipment you use to access the Website or
+Services or any component thereof.
+</li>
+</ul>
+<p>
+<b>How we Collect Your Information:</b> Timus collects your information directly from you when you provide it to us,
+as
+described below in this section of the Privacy Policy. We may also collect certain information automatically as you
+use the Website or Services. Please review the section further below in this Privacy Policy titled “Cookies and
+Tracking Technologies” for more information on our automatic collection practices.
+</p>
+<p>
+We may collect information, including personal information, directly from you when:
+</p>
+<ul>
+<li>you submit a Contact Form;</li>
+<li>you use the Services;</li>
+<li>you create an account to access the Management Portal or Timus Connect;</li>
+<li>you subscribe to receive emails or newsletters from Timus;</li>
+<li>you request a demonstration of the Services; </li>
+<li>you participate in surveys and evaluations; </li>
+<li>you request information or materials;</li>
+<li>you apply for a position, or submit your resume to Timus;</li>
+<li>you submit questions or comments to Timus;</li>
+<li>you submit any other information to Timus; or</li>
+<li>you contact Timus by any means using information available on the Website or through the Services.</li>
+</ul>
+<p>
+We also may collect your information from Partners if you provide information to them in connection with procuring
+or using Services.
+</p>
+<p>
+<b>How We Use Your Information:</b> Timus collects and uses your information, including your personal information,
+to
+operate and improve the Website, Management Platform, and Timus Connect, and to deliver the services or carry out
+the transactions you have requested. These uses may include providing you with more effective customer service;
+making the Website, Management Platform, and Timus Connect easier to use by eliminating the need for you to
+repeatedly enter the same information; performing research and analysis aimed at improving our products, services,
+and technologies; and displaying content and advertising that are customized to your interests and preferences.
+</p>
+<p>
+We also use your personal information to communicate with you. We may send certain mandatory service communications
+such as welcome letters, information updates, billing information, information on technical service issues, and
+security announcements. We may also contact you to inform you of other products or services available from Timus and
+its Affiliates.
+</p>
+<p>
+Personal information collected on the Website and through the Services may be stored and processed in the United
+States or any other country in which Timus or its Affiliates, subsidiaries or agents maintain facilities, and by
+using the Website or Services, you consent to any such transfer of information outside of your country.
+</p>
+<p>
+<b>Sharing of Information:</b> Timus will not sell, rent, or lease your information, including your personal
+information,
+to others. Timus shares personal information with its Affiliates and other companies working on our behalf. Except
+as described in this Privacy Policy, we will not disclose your personal information to third parties for their own
+marketing purposes unless you have provided consent.
+</p>
+<p>
+Timus may share your information, including personal information, with its Affiliates. The information submitted
+through Contact Forms may be stored and processed by Affiliates in the United States or any other country in which
+the Affiliates maintain facilities, and by submitting a Contact Form, you consent to any such transfer of
+information outside of your country.
+</p>
+<p>
+In some cases, we use third parties to collect, use, analyze, and otherwise process information, including personal
+information, on our behalf. This includes our use of certain products and services provided by third parties for the
+purposes of enabling certain features on the Website, Management Portal, and Timus Connect. For example, if you
+submit a Contact Form or otherwise provide information to us through the Website, the information you submit may be
+processed by third-party providers that we use to enable Contact Forms and other interactions on the Website. We
+occasionally hire other third parties to provide limited services on our behalf, such as handling the processing and
+delivery of mailings, providing customer support, hosting websites, processing transactions, or performing
+statistical analysis of our services. For example, we may use a third-party payment processer to facilitate
+purchases of subscriptions to use the Services. Service providers will be permitted to obtain only the personal
+information they need to deliver the service. They are required to maintain the confidentiality of the information
+and are prohibited from using it for any other purpose.
+</p>
+<p>
+If you request something from the Website or through the Services (for example, a product or service, a callback, or
+specific marketing materials), we will use the information you provide to fulfill your request or inquiry. To help
+us do this, we may share information with our providers or Partners.
+</p>
+<p>
+We may access or disclose your information, including your personal information, if we believe such action is
+necessary to: (a) comply with the law or legal process served on Timus; (b) protect and defend the rights or
+property of Timus (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the
+personal safety of our customers or members of the public.
+</p>
+<p>
+<b>Cookies and Tracking Technologies:</b> When you use the Website or Services, we may use automatic data collection
+technologies to collect certain information about you and your device. The type of information we may automatically
+collect when you use the Website or Services includes:
+</p>
+<ul>
+<li><i>Usage Details.</i> We may automatically collect certain details of your access to and use of the Website or
+Services, including traffic data, logs, browsing actions and patterns, and your activities and interactions on
+the Website, Management Platform, and Timus Connect.</li>
+<li><i>Device Information.</i> We may collect information about your device and internet connection, including the
+device’s unique identifier, IP address, operating system, browser type, mobile network information, and
+telephone number.</li>
+<li><i>Location Information.</i> When you use Timus Connect, we may also collect real-time information about the
+location
+of your device.</li>
+<li><i>Behavioral Tracking.</i> We also may use tracking technologies to collect information about your online
+activities
+over time and across third-party websites or other online services. <a href=&quot;Click here&quot;> Click here </a>to opt out of behavioral
+tracking. </li>
+</ul>
+<p>
+If you do not want us to automatically collect these types of information, do not use the Website or Services and do
+not download Timus Connect.
+</p>
+<p>
+The technologies we use for automatic information collection include cookies (whether browser cookies or mobile
+cookies). A cookie is a small file placed on your device. Cookies are commonly used to track internet activity and
+provide an enhanced experience when using the internet. Timus may use cookies to collect non-personally identifiable
+information. We use cookies to help us better understand Website usage in the aggregate so that we know what areas
+of the Website users prefer. Third party vendors, including Google, may use cookies to serve ads to you while you
+are using the Website or Services based on your prior visits. It may be possible to refuse to accept cookies by
+activating the appropriate setting on your browser or smartphone. However, if you select this setting, you may be
+unable to access certain parts or features of the Website or Services.
+</p>
+<p>
+In addition to cookies, we may use additional tracking technologies in connection with your use of the Services.
+These include technologies that track your activities on the Management Platform and Timus Connect and additional
+information about your device such as its configuration settings and patterns of usage among multiple devices. We
+use these technologies to collect information that is relevant to the nature of the Services, and we do not sell or
+share the information collected through these technologies with any third parties.
+</p>
+<p>
+<b>Your Choices:</b> Timus provides a number of ways for you to “opt-out” of receiving additional information from
+us, or
+having us provide your personal information to our partners. We may offer you these choices at the time you give us
+your personal information.
+</p>
+<p>
+If you do not wish to continue receiving certain marketing materials (e.g., email messages), you can opt-out of
+receiving these materials by following the unsubscribe instructions provided in the materials. This option does not
+apply to communications primarily for the purpose of administering orders, contracts, support, product safety
+warnings, software updates, or other administrative and transactional notices.
+</p>
+<p>
+<b>Updating Your Information:</b> To modify the contact information that you have provided to us, you can contact us
+at
+<a href=&quot;/cdn-cgi/l/email-protection#200f0f4c4547414c6054494d55534e4554574f524b530e434f4d&quot;><span class=&quot;__cf_email__&quot; data-cfemail=&quot;92fef7f5f3fed2e6fbffe7e1fcf7e6e5fde0f9e1bcf1fdff&quot;>[email&amp;#160;protected]</span></a> or by mailing us at 245 First Street,
+Riverview II, 18th Floor, Cambridge, MA 02142.
+</p>
+<p>
+<b>Safeguarding your information:</b> In order to protect your information, including your personal information,
+from
+improper disclosure, Timus uses commercially reasonable efforts to maintain a secure operating environment to
+protect any information we collect. We use the most accurate and current information you provide in order to process
+your request. Once received, we limit access of your information to only those employees with a legitimate business
+need to review them. Furthermore, whenever you transmit personal information, such as credit card information, to us
+through our website, we provide you access to a third-party server that allows encryption across the internet.
+Browsers offer varying degrees of security, particularly in regard to encryption. Even the same version of a browser
+can come with different levels of encryption. See your browser’s settings or documentation for more information.
+Finally, we take care to dispose of your information properly so that third parties will not be able to access it.
+This includes destroying, erasing, or making unreadable the information. While we are committed to protecting your
+privacy, please be aware that no transaction over the internet can be completely secure.
+</p>
+<p>
+<b>Enforcement:</b> Timus regularly reviews its compliance with this Privacy Policy. Please feel free to direct any
+questions or concerns regarding this statement or our treatment of personal information by contacting us at the link
+or address indicated below.
+</p>
+<p>
+<b>Links to Other Websites:</b> The Website and Services may provide links to third-party websites, such as those of
+our
+business partners, payment processors, and online advertisers. You should review their privacy policies to learn
+more about what, why, and how they collect and use personally identifiable information.
+</p>
+<p>
+For Questions or Concerns: If you have questions or concerns regarding this statement, you should first contact
+<a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;3c50595b5d507c485551494f5259484b534e574f125f5351&quot;>[email&amp;#160;protected]</a>. Other correspondence may be sent to:
+</p>
+<p style=&quot;margin-left:50px;&quot;>
+Timus Networks, Inc.<br>
+245 First Street, Riverview II, 18th Floor<br>
+Cambridge, MA 02142
+</p>
+<p>
+<b>Changes to this Privacy Policy:</b> Timus reserves the right to change this Privacy Policy from time to time. If
+we do
+make changes, the revised Privacy Policy will be posted on the Website.
+</p>
+<p>
+<b><u>NOTICE TO CHILDREN UNDER THE AGE OF 18 AND THEIR PARENTS OR LEGAL GUARDIANS:</u></b> THE WEBSITE AND SERVICES
+ARE INTENDED
+FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF
+YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO TIMUS. IF YOU KNOW OF ANYONE UNDER
+THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE
+INFORMATION.
+</p>
+<p>
+<b><u>SPECIFIC PROVISIONS FOR CALIFORNIA RESIDENTS:</u></b> This section of the Privacy Policy applies only to
+individuals who
+reside in California. The California Consumer Privacy Act of 2018, as amended and supplemented by the California
+Privacy Rights Act of 2020 (collectively the “CCPA”) provides additional rights to know, delete and opt out, and
+requires businesses collecting or disclosing Personal Information to provide notices and means to exercise rights.
+For Purposes of this section, “Personal Information” has the definition set forth in the CCPA.
+</p>
+<p>
+<b><i>California Notice of Collection:</i></b> We or our service providers have collected the following categories
+of information
+enumerated in the CCPA in connection with the Websiteand Services:
+</p>
+<ul>
+<li>First and last name, home, billing or other physical address (including street name, city/town,
+state/province, postal code, and country of origin), e-mail address, and telephone number, to the extent you are
+interacting with the Website, Management Portal, or Timus Connect;</li>
+<li>Information, services and products considered, accepted, rejected and other use data;</li>
+<li>Any other identifier that permits us to make physical or online contact with you; </li>
+<li>Internet activity, including history of visiting and interacting with the Website, Management Portal, or Timus
+Connect, browser type, browser language and other information collected automatically; and</li>
+<li>Any other information you have chosen to provide to us through the Website, Management Portal, or Timus
+Connect.</li>
+</ul>
+<p>
+We do not generally sell information as the term “sell” is traditionally understood. However, to the extent “sale”
+under the CCPA would be interpreted to include any of the activities described in the “Sharing of information”
+section above, we will comply with applicable law as to such activity.
+</p>
+<p>
+<b><i>Right to Know and Delete:</i></b> If you are a California resident, you have the right to delete Personal
+Information we
+have collected about you and you have the right to know certain information about our data practices. In particular,
+you have the right to request the following:
+</p>
+<ul>
+<li>Categories of Personal Information we have collected about you;</li>
+<li>Categories of sources from which the Personal Information was collected;</li>
+<li>Categories of Personal Information about you we disclosed for a business purpose or sold;</li>
+<li>Categories of third parties to whom the Personal Information was sold or disclosed for a business purpose;
+</li>
+<li>Business or commercial purpose for collecting or selling the Personal Information; and</li>
+<li>Specific pieces of Personal Information we have collected about you.</li>
+</ul>
+<p>
+To exercise any of these rights, please submit a request to us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;4a262f2d2b260a3e23273f39242f3e3d2538213964292527&quot;>[email&amp;#160;protected]</a>. In the request, please
+specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your
+request within ten (10) days. We may require specific information from you to help us verify your identity and
+process your request. Please note that, in many instances, we do not collect types of information that enable us to
+identify you. As such, if we do not have information that permits us to verify your identity, we may deny your
+requests to know or delete. A request for access can be made by you only twice within a twelve (12) month period.
+</p>
+<p>
+<b><i>Right to Opt Out:</i></b> Under the CCPA, you have the right to opt out of the sale of your Personal
+Information to third
+parties at any time. Timus does not “sell” your Personal Information as it is currently defined under the CCPA. You
+may contact us by emailing us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;bed2dbd9dfd2fecad7d3cbcdd0dbcac9d1ccd5cd90ddd1d3&quot;>[email&amp;#160;protected]</a> if you have any questions or concerns.
+</p>
+<p>
+<b><i>Authorized Agent:</i></b> You can designate an authorized agent to submit requests on your behalf. However, we
+will require
+written proof of the agent’s permission to do so and verify your identity directly.
+</p>
+<p>
+<b><i>Right to Non-Discrimination:</i></b> You have the right not to receive discriminatory treatment by us for the
+exercise of
+any your rights.
+</p>
+<p>
+<b><i>California Do-Not-Track Notice:</i></b> We do not track our Website users over time and across third party
+websites and
+therefore do not respond to Do Not Track (DNT) signals.
+</p>
+<p>
+<b><u>NOTICE TO INTERNATIONAL RESIDENTS:</u></b> Timus is headquartered in the United States. The Website,
+Management Portal, and
+Timus Connect are primarily operated and managed on servers located and operated within the United States. In order
+to use the Website or Services, you may be sending your personal information outside of the country where you reside
+or are located, including to the United States. Accordingly, if you reside or are located outside of the United
+States, your personal information may be transferred outside of the country where you reside or are located,
+including to countries that may not or do not provide the same level of protection for your personal information. We
+are committed to protecting the privacy and confidentiality of personal information when it is transferred.
+</p>
+<p>
+<b><u>ADDITIONAL INFORMATION FOR USERS IN THE EUROPEAN ECONOMIC AREA AND UNITED KINGDOM:</u></b> Timus is
+established in the
+United States and has operations and service providers in the United States and throughout the world. As such, we
+and our service providers may transfer your personal information to, or access it in, jurisdictions that may not
+provide levels of data protection equivalent to those in your country of residence. By using the Website or
+Services, or otherwise interacting with us, regardless of where you live or where you provide information to us, you
+consent to our use and our service providers’ use of your personal information worldwide and to the transfer of your
+personal information to countries outside of your country of residence, including the United States. In certain
+circumstances, courts, regulatory agencies, law enforcement agencies, or security authorities in those other
+countries may be entitled to access your personal information.
+</p>
+<p>
+Timus is aware of the July 16, 2020 ruling by the European Court of Justice invalidating the EU-US Privacy Shield
+Framework. Accordingly, we will take adequate measures designed to protect the transfer of Personal Information of
+individuals in the European Economic Area (EU Member States, Iceland, Liechtenstein and Norway) (“<b>EEA</b>”), such
+as
+relying on the European Commission-approved Standard Contractual Clauses (“<b>EU SCCs</b>”) as a legal mechanism for
+such
+transfer, or other adequate transfer mechanism as required under relevant data protection laws, as well as
+additional safeguards, where appropriate. A copy of these clauses may be obtained by contacting us at the email
+address listed below.
+</p>
+<p>
+For transfers to or from the United Kingdom (“<b>UK</b>”), we make use of the EU SCCs, as modified by the UK’s
+International Data Transfer Addendum (collectively the “<b>UK SCCs</b>”). For individuals located in the EEA or the
+UK, the
+term “personal information,” as used in this section, is equivalent to “personal data” under applicable European and
+UK data protection legislation.
+</p>
+<p>
+If you are located in the EEA, the UK, or Switzerland, you have certain rights and protections under applicable law
+regarding the processing of your personal information, as defined by the General Data Protection Regulation
+(“<b>GDPR</b>”), and this section applies to you.
+</p>
+<p>
+<b><i>Legal Basis for Processing:</i></b> When we process your personal information, we will do so in reliance on
+the following
+lawful bases:
+</p>
+<ul>
+<li>To perform our responsibilities under our contract with you (e.g., providing the services you requested).</li>
+<li>When we have a legitimate interest in processing your personal information to operate our business or protect
+our interests (e.g., to provide, maintain, and improve our services, conduct data analytics, and communicate
+with you).</li>
+<li>To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have
+opted out of non-administrative communications).</li>
+<li>When we have your consent to do so (e.g., when you opt in to receive non-administrative communications from
+us). When consent is the legal basis for our processing your personal information, you may withdraw such consent
+at any time.</li>
+</ul>
+<p>
+<b><i>Data Retention:</i></b> We store personal information associated with your account for as long as your account
+remains
+active. If you close your account, we will delete your account data within thirty (30) days, unless reasonably
+necessary to comply with our legal, regulatory, or other compliance obligations. We store other data for as long as
+necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes,
+including to meet our legal, regulatory, or other compliance obligations.
+</p>
+<p>
+<b><i>Your Rights:</i></b> For users in the European Union, according to the GDPR, you have the following statutory
+rights:
+</p>
+<ul>
+<li><b>Information.</b> At the point where personal information is collected from the data subject, as defined by
+the GDPR,
+or obtained from another source, there is a requirement to inform the data subject about our use of that
+personal
+information and the rights of data subjects over it. Compliance with this right is provided within this Privacy
+Policy.</li>
+<li><b>Access.</b> You have the right to obtain confirmation as to whether or not personal information concerning
+you is
+being processed, and, where that is the case, all necessary information to make the process transparent. You
+also
+have the right to obtain a copy of your personal information being processed.</li>
+<li><b>Rectification.</b> You have the right to require rectification of inaccurate data about you.</li>
+<li><b>Erasure.</b> You have the right to ask for the deletion of your data in certain circumstances.</li>
+<li><b>Restrict processing.</b> You have the right to restrict processing of data under certain specified
+circumstances.
+</li>
+<li><b>Data portability.</b> You have the right to request for the receipt or the transfer to another organization,
+in a
+machine-readable form, of your personal information.</li>
+<li><b>Object to processing.</b> You have the right to ask us to stop using all or some of your personal information
+under
+certain specified circumstances.</li>
+<li><b>Right to withdraw consent.</b> When you have given your explicit consent for the processing of your data, you
+can
+withdraw it at any time without justification. The withdrawal of consent will not affect the lawfulness of
+processing based on consent before its withdrawal.</li>
+</ul>
+<p>
+If would like to exercise your rights, please let us know by sending an email at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;86eae3e1e7eac6f2efebf3f5e8e3f2f1e9f4edf5a8e5e9eb&quot;>[email&amp;#160;protected]</a>.
+</p>
+<p>
+You also have the right to lodge a complaint with your local Data Protection Authority or to the Data Protection
+Authority where the alleged infringement took place.
+</p>
+<p>
+<i>This Privacy Policy was last amended on 19 January 2023.</i>
+</p>
+<script data-cfasync=&quot;false&quot; src=&quot;/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js&quot;></script><script src=&quot;https://www.timusnetworks.com/theme/assets/js/jquery-3.6.0.min.js&quot;></script>
+<script>
+    $(document).ready(function() {
+        var cookie = $(&quot;a[href$='Click here']&quot;);
+        cookie.attr('href', 'javascript:void(0);');
+        cookie.removeAttr('target');
+
+        $(cookie).click(function() {
+            var _hsp = window._hsp = window._hsp || [];
+            _hsp.push(['showBanner']);
+        })
+
+    })
+</script>" style="height: 500px; width: 100%;"></iframe>
+  (Session info: chrome=121.0.6167.86)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd7d5b586b07eea4616cdba9febafd5f, clickElement {id=2713DAB10648195ED87B7C102AF93CC5_element_314}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63610/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]]
+Session ID: cd7d5b586b07eea4616cdba9febafd5f--------- clicked by js  
+2024-01-29 17:17:00,646 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:17:00,655 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:17:00,663 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:17:01,313 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cd7d5b586b07eea4616cdba9febafd5f)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:18:13,032 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:18:13,498 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:18:17,219 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:18:30,442 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:18:30,747 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:18:31,393 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:18:31,426 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:18:31,448 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:18:42,032 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:18:42,036 INFO  [BasePageMethods] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63649/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a195882608dfb95d5cb0234cf8e5bad--------- clicked by js  
+2024-01-29 17:18:43,214 INFO  [BasePageMethods] Clicked By JS to [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:18:43,215 INFO  [BasePageMethods] org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="agreement_text">...</span> is not clickable at point (952, 506). Other element would receive the click: <iframe data-testid="pages-register-index-fnkwbxnok" title="Privacy Policy" srcdoc="<script type=&quot;text/javascript&quot; id=&quot;hs-script-loader&quot; async defer src=&quot;//js.hs-scripts.com/22080121.js&quot; defer=&quot;defer&quot;></script>
+<style>
+    body {
+        padding: 25px 0px 0px 0px;
+        width: 80%;
+        margin: 0 auto;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    table td ol {
+        margin: 0;
+        padding: 0px 25px;
+    }
+
+    li {
+        margin: 15px 0px;
+    }
+</style>
+<p style=&quot;text-align:center;text-decoration: underline;font-weight: bold;&quot;>Privacy Policy</p>
+<p>
+Your privacy is important to Timus Networks, Inc. (“<b>Timus</b>”, “<b>we</b>,” or “<b>us</b>”). This Privacy Policy
+describes the
+information practices of Timus in connection with the Website, the Services, the Management Portal, and the Timus
+Connect application, including what type of information is gathered and tracked, how the information is used, and
+with whom the information is shared. As described below, this Privacy Policy applies to your interactions with the
+Website, Management Portal, Timus Connect, as well as any information that you provide to Timus or Partners in
+connection with the Services.
+</p>
+<p>
+<b>BY USING THE WEBSITE, SERVICES, MANAGEMENT PORTAL, OR TIMUS CONNECT, YOU INDICATE YOUR UNDERSTANDING AND
+ACCEPTANCE
+OF THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THE WEBSITE, SERVICES,
+MANAGEMENT
+PORTAL, OR TIMUS CONNECT.</b>
+</p>
+<p>
+Please carefully read this Privacy Policy as it may have changed since your last visit to the Website, Management
+Portal, or Timus Connect. Continued use of the Website, Management Portal, or Timus Connect indicates your
+understanding and acceptance of any changes made to this Privacy Policy and posted to the Website, Management
+Portal, and Timus Connect. This Privacy Policy does not cover the privacy practices of any third-party websites to
+which the Website may link.
+</p>
+<ul style=&quot;list-style: none;&quot;>
+<li><b>Definitions:</b></li>
+<ul style=&quot;list-style: none;padding:0;margin:0;&quot;>
+<li>- “<b>Affiliate</b>” means any entity that, directly or indirectly, through one or more
+intermediaries,
+controls, is controlled by, or is under common control with Timus.</li>
+<li>- “<b>Contact Form</b>” means a form available on the Website that can be used to submit
+information to
+Timus for any purpose, such as contacting Timus or requesting a demonstration of the products or
+services offered by Timus.</li>
+<li>- “<b>Customer</b>” means an entity or person that has purchased the Services to use within
+their business
+and not for resale.</li>
+<li>- “<b>End User</b>” means those individuals that use the Management Portal or Timus Connect,
+whether on
+behalf of a Partner or Customer, including use of a device monitored by a Customer or Partner
+through Timus Connect.</li>
+<li>- “<b>Management Portal</b>” means the web page through which Partners, Customers, or their End
+Users can
+configure the security and network settings related to the Services.</li>
+<li>- “<b>Partner</b>” means a Timus authorized reseller of, or managed services provider for, the
+Services and
+provider of other professional services related thereto.</li>
+<li>- “<b>Services</b>” collectively refers to: (i) the features and functionality accessible
+through the
+Management Portal and Timus Connect, and (ii) support and maintenance services performed by
+Timus.
+All references in this Privacy Policy to “use of the Services” or “using the Services” include
+use
+of the Management Portal and Timus Connect.</li>
+<li>- “<b>Timus Connect</b>” refers to the mobile, laptop, or desktop application available for
+download from
+the Website or a third-party app store or other distribution platform for those operating
+systems
+supported by Timus, which Timus makes available as part of the Services.</li>
+<li>- “<b>Website</b>” means <a target=&quot;_blank&quot; href=&quot;https://www.timusnetworks.com/&quot;>https://www.timusnetworks.com/</a></li>
+<li>- “<b>Website Visitor</b>” means any person who uses the Website, which includes browsing the
+Website or
+submitting a Contact Form.</li>
+</ul>
+</ul>
+<p>
+<b>Applicability:</b> If you are a Website Visitor, Customer, Partner, or End User, please read this Privacy Policy
+carefully as it applies to you. This Privacy Policy applies to all information collected by or on behalf of Timus in
+connection with the following:
+</p>
+<ul>
+<li>Use of the Website;</li>
+<li>Procurement and use of the Services;</li>
+<li>Use of the Management Portal; and</li>
+<li>Use of Timus Connect.</li>
+</ul>
+<p>
+Please note that certain information may be collected from Customers by Partners on behalf of Timus, such as
+information provided when a Customer purchases or registers for Services, and this Privacy Policy only covers the
+practices of Timus with respect to such information. This Privacy Policy does not cover the practices of Partners or
+any other third parties, nor does it cover information collected by Partners for purposes other than on behalf of
+Timus in connection with the Services. For example, if a Partner provides its own services to Customers (such as
+technical support or other professional services), the exchange of information in connection with such services is
+not subject to this Privacy Policy.
+</p>
+<p>
+<b>Information we collect:</b> We collect several types of information from and about Website Visitors, Customers,
+Partners, and End Users, including the following:
+</p>
+<ul>
+<li>
+Personal information, which is data that reasonably can be used to identify or describe an individual, such as
+your name, business affiliation, postal address, telephone number, or email address. We collect personal
+information only when you voluntarily provide it to us. You do not need to provide personal information to
+simply browse the Website. You will need to provide personal information to access and use the Services, and you
+have the right to request that we delete your personal information. The personal information we collect (if you
+provide it to us) may include, but is not limited to:
+</li>
+<ul style=&quot;list-style: circle;&quot;>
+<li>your first and last name;</li>
+<li>your business affiliation;</li>
+<li>your home, billing, or other physical address (including street name, city/town, state/province, postal
+code);</li>
+<li>your email address;</li>
+<li>your telephone number;</li>
+<li>your financial information, including credit card or bank account information; and</li>
+<li>any other identifier that permits Timus to make physical or online contact with you.</li>
+</ul>
+<li>
+Information that is about you but individually does not identify you.
+</li>
+<li>
+Information about your internet connection, usage details, and the equipment you use to access the Website or
+Services or any component thereof.
+</li>
+</ul>
+<p>
+<b>How we Collect Your Information:</b> Timus collects your information directly from you when you provide it to us,
+as
+described below in this section of the Privacy Policy. We may also collect certain information automatically as you
+use the Website or Services. Please review the section further below in this Privacy Policy titled “Cookies and
+Tracking Technologies” for more information on our automatic collection practices.
+</p>
+<p>
+We may collect information, including personal information, directly from you when:
+</p>
+<ul>
+<li>you submit a Contact Form;</li>
+<li>you use the Services;</li>
+<li>you create an account to access the Management Portal or Timus Connect;</li>
+<li>you subscribe to receive emails or newsletters from Timus;</li>
+<li>you request a demonstration of the Services; </li>
+<li>you participate in surveys and evaluations; </li>
+<li>you request information or materials;</li>
+<li>you apply for a position, or submit your resume to Timus;</li>
+<li>you submit questions or comments to Timus;</li>
+<li>you submit any other information to Timus; or</li>
+<li>you contact Timus by any means using information available on the Website or through the Services.</li>
+</ul>
+<p>
+We also may collect your information from Partners if you provide information to them in connection with procuring
+or using Services.
+</p>
+<p>
+<b>How We Use Your Information:</b> Timus collects and uses your information, including your personal information,
+to
+operate and improve the Website, Management Platform, and Timus Connect, and to deliver the services or carry out
+the transactions you have requested. These uses may include providing you with more effective customer service;
+making the Website, Management Platform, and Timus Connect easier to use by eliminating the need for you to
+repeatedly enter the same information; performing research and analysis aimed at improving our products, services,
+and technologies; and displaying content and advertising that are customized to your interests and preferences.
+</p>
+<p>
+We also use your personal information to communicate with you. We may send certain mandatory service communications
+such as welcome letters, information updates, billing information, information on technical service issues, and
+security announcements. We may also contact you to inform you of other products or services available from Timus and
+its Affiliates.
+</p>
+<p>
+Personal information collected on the Website and through the Services may be stored and processed in the United
+States or any other country in which Timus or its Affiliates, subsidiaries or agents maintain facilities, and by
+using the Website or Services, you consent to any such transfer of information outside of your country.
+</p>
+<p>
+<b>Sharing of Information:</b> Timus will not sell, rent, or lease your information, including your personal
+information,
+to others. Timus shares personal information with its Affiliates and other companies working on our behalf. Except
+as described in this Privacy Policy, we will not disclose your personal information to third parties for their own
+marketing purposes unless you have provided consent.
+</p>
+<p>
+Timus may share your information, including personal information, with its Affiliates. The information submitted
+through Contact Forms may be stored and processed by Affiliates in the United States or any other country in which
+the Affiliates maintain facilities, and by submitting a Contact Form, you consent to any such transfer of
+information outside of your country.
+</p>
+<p>
+In some cases, we use third parties to collect, use, analyze, and otherwise process information, including personal
+information, on our behalf. This includes our use of certain products and services provided by third parties for the
+purposes of enabling certain features on the Website, Management Portal, and Timus Connect. For example, if you
+submit a Contact Form or otherwise provide information to us through the Website, the information you submit may be
+processed by third-party providers that we use to enable Contact Forms and other interactions on the Website. We
+occasionally hire other third parties to provide limited services on our behalf, such as handling the processing and
+delivery of mailings, providing customer support, hosting websites, processing transactions, or performing
+statistical analysis of our services. For example, we may use a third-party payment processer to facilitate
+purchases of subscriptions to use the Services. Service providers will be permitted to obtain only the personal
+information they need to deliver the service. They are required to maintain the confidentiality of the information
+and are prohibited from using it for any other purpose.
+</p>
+<p>
+If you request something from the Website or through the Services (for example, a product or service, a callback, or
+specific marketing materials), we will use the information you provide to fulfill your request or inquiry. To help
+us do this, we may share information with our providers or Partners.
+</p>
+<p>
+We may access or disclose your information, including your personal information, if we believe such action is
+necessary to: (a) comply with the law or legal process served on Timus; (b) protect and defend the rights or
+property of Timus (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the
+personal safety of our customers or members of the public.
+</p>
+<p>
+<b>Cookies and Tracking Technologies:</b> When you use the Website or Services, we may use automatic data collection
+technologies to collect certain information about you and your device. The type of information we may automatically
+collect when you use the Website or Services includes:
+</p>
+<ul>
+<li><i>Usage Details.</i> We may automatically collect certain details of your access to and use of the Website or
+Services, including traffic data, logs, browsing actions and patterns, and your activities and interactions on
+the Website, Management Platform, and Timus Connect.</li>
+<li><i>Device Information.</i> We may collect information about your device and internet connection, including the
+device’s unique identifier, IP address, operating system, browser type, mobile network information, and
+telephone number.</li>
+<li><i>Location Information.</i> When you use Timus Connect, we may also collect real-time information about the
+location
+of your device.</li>
+<li><i>Behavioral Tracking.</i> We also may use tracking technologies to collect information about your online
+activities
+over time and across third-party websites or other online services. <a href=&quot;Click here&quot;> Click here </a>to opt out of behavioral
+tracking. </li>
+</ul>
+<p>
+If you do not want us to automatically collect these types of information, do not use the Website or Services and do
+not download Timus Connect.
+</p>
+<p>
+The technologies we use for automatic information collection include cookies (whether browser cookies or mobile
+cookies). A cookie is a small file placed on your device. Cookies are commonly used to track internet activity and
+provide an enhanced experience when using the internet. Timus may use cookies to collect non-personally identifiable
+information. We use cookies to help us better understand Website usage in the aggregate so that we know what areas
+of the Website users prefer. Third party vendors, including Google, may use cookies to serve ads to you while you
+are using the Website or Services based on your prior visits. It may be possible to refuse to accept cookies by
+activating the appropriate setting on your browser or smartphone. However, if you select this setting, you may be
+unable to access certain parts or features of the Website or Services.
+</p>
+<p>
+In addition to cookies, we may use additional tracking technologies in connection with your use of the Services.
+These include technologies that track your activities on the Management Platform and Timus Connect and additional
+information about your device such as its configuration settings and patterns of usage among multiple devices. We
+use these technologies to collect information that is relevant to the nature of the Services, and we do not sell or
+share the information collected through these technologies with any third parties.
+</p>
+<p>
+<b>Your Choices:</b> Timus provides a number of ways for you to “opt-out” of receiving additional information from
+us, or
+having us provide your personal information to our partners. We may offer you these choices at the time you give us
+your personal information.
+</p>
+<p>
+If you do not wish to continue receiving certain marketing materials (e.g., email messages), you can opt-out of
+receiving these materials by following the unsubscribe instructions provided in the materials. This option does not
+apply to communications primarily for the purpose of administering orders, contracts, support, product safety
+warnings, software updates, or other administrative and transactional notices.
+</p>
+<p>
+<b>Updating Your Information:</b> To modify the contact information that you have provided to us, you can contact us
+at
+<a href=&quot;/cdn-cgi/l/email-protection#785757141d1f1914380c11150d0b161d0c0f170a130b561b1715&quot;><span class=&quot;__cf_email__&quot; data-cfemail=&quot;aac6cfcdcbc6eadec3c7dfd9c4cfdeddc5d8c1d984c9c5c7&quot;>[email&amp;#160;protected]</span></a> or by mailing us at 245 First Street,
+Riverview II, 18th Floor, Cambridge, MA 02142.
+</p>
+<p>
+<b>Safeguarding your information:</b> In order to protect your information, including your personal information,
+from
+improper disclosure, Timus uses commercially reasonable efforts to maintain a secure operating environment to
+protect any information we collect. We use the most accurate and current information you provide in order to process
+your request. Once received, we limit access of your information to only those employees with a legitimate business
+need to review them. Furthermore, whenever you transmit personal information, such as credit card information, to us
+through our website, we provide you access to a third-party server that allows encryption across the internet.
+Browsers offer varying degrees of security, particularly in regard to encryption. Even the same version of a browser
+can come with different levels of encryption. See your browser’s settings or documentation for more information.
+Finally, we take care to dispose of your information properly so that third parties will not be able to access it.
+This includes destroying, erasing, or making unreadable the information. While we are committed to protecting your
+privacy, please be aware that no transaction over the internet can be completely secure.
+</p>
+<p>
+<b>Enforcement:</b> Timus regularly reviews its compliance with this Privacy Policy. Please feel free to direct any
+questions or concerns regarding this statement or our treatment of personal information by contacting us at the link
+or address indicated below.
+</p>
+<p>
+<b>Links to Other Websites:</b> The Website and Services may provide links to third-party websites, such as those of
+our
+business partners, payment processors, and online advertisers. You should review their privacy policies to learn
+more about what, why, and how they collect and use personally identifiable information.
+</p>
+<p>
+For Questions or Concerns: If you have questions or concerns regarding this statement, you should first contact
+<a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;28444d4f4944685c41455d5b464d5c5f475a435b064b4745&quot;>[email&amp;#160;protected]</a>. Other correspondence may be sent to:
+</p>
+<p style=&quot;margin-left:50px;&quot;>
+Timus Networks, Inc.<br>
+245 First Street, Riverview II, 18th Floor<br>
+Cambridge, MA 02142
+</p>
+<p>
+<b>Changes to this Privacy Policy:</b> Timus reserves the right to change this Privacy Policy from time to time. If
+we do
+make changes, the revised Privacy Policy will be posted on the Website.
+</p>
+<p>
+<b><u>NOTICE TO CHILDREN UNDER THE AGE OF 18 AND THEIR PARENTS OR LEGAL GUARDIANS:</u></b> THE WEBSITE AND SERVICES
+ARE INTENDED
+FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF
+YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO TIMUS. IF YOU KNOW OF ANYONE UNDER
+THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE
+INFORMATION.
+</p>
+<p>
+<b><u>SPECIFIC PROVISIONS FOR CALIFORNIA RESIDENTS:</u></b> This section of the Privacy Policy applies only to
+individuals who
+reside in California. The California Consumer Privacy Act of 2018, as amended and supplemented by the California
+Privacy Rights Act of 2020 (collectively the “CCPA”) provides additional rights to know, delete and opt out, and
+requires businesses collecting or disclosing Personal Information to provide notices and means to exercise rights.
+For Purposes of this section, “Personal Information” has the definition set forth in the CCPA.
+</p>
+<p>
+<b><i>California Notice of Collection:</i></b> We or our service providers have collected the following categories
+of information
+enumerated in the CCPA in connection with the Websiteand Services:
+</p>
+<ul>
+<li>First and last name, home, billing or other physical address (including street name, city/town,
+state/province, postal code, and country of origin), e-mail address, and telephone number, to the extent you are
+interacting with the Website, Management Portal, or Timus Connect;</li>
+<li>Information, services and products considered, accepted, rejected and other use data;</li>
+<li>Any other identifier that permits us to make physical or online contact with you; </li>
+<li>Internet activity, including history of visiting and interacting with the Website, Management Portal, or Timus
+Connect, browser type, browser language and other information collected automatically; and</li>
+<li>Any other information you have chosen to provide to us through the Website, Management Portal, or Timus
+Connect.</li>
+</ul>
+<p>
+We do not generally sell information as the term “sell” is traditionally understood. However, to the extent “sale”
+under the CCPA would be interpreted to include any of the activities described in the “Sharing of information”
+section above, we will comply with applicable law as to such activity.
+</p>
+<p>
+<b><i>Right to Know and Delete:</i></b> If you are a California resident, you have the right to delete Personal
+Information we
+have collected about you and you have the right to know certain information about our data practices. In particular,
+you have the right to request the following:
+</p>
+<ul>
+<li>Categories of Personal Information we have collected about you;</li>
+<li>Categories of sources from which the Personal Information was collected;</li>
+<li>Categories of Personal Information about you we disclosed for a business purpose or sold;</li>
+<li>Categories of third parties to whom the Personal Information was sold or disclosed for a business purpose;
+</li>
+<li>Business or commercial purpose for collecting or selling the Personal Information; and</li>
+<li>Specific pieces of Personal Information we have collected about you.</li>
+</ul>
+<p>
+To exercise any of these rights, please submit a request to us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;eb878e8c8a87ab9f82869e98858e9f9c84998098c5888486&quot;>[email&amp;#160;protected]</a>. In the request, please
+specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your
+request within ten (10) days. We may require specific information from you to help us verify your identity and
+process your request. Please note that, in many instances, we do not collect types of information that enable us to
+identify you. As such, if we do not have information that permits us to verify your identity, we may deny your
+requests to know or delete. A request for access can be made by you only twice within a twelve (12) month period.
+</p>
+<p>
+<b><i>Right to Opt Out:</i></b> Under the CCPA, you have the right to opt out of the sale of your Personal
+Information to third
+parties at any time. Timus does not “sell” your Personal Information as it is currently defined under the CCPA. You
+may contact us by emailing us at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;adc1c8caccc1edd9c4c0d8dec3c8d9dac2dfc6de83cec2c0&quot;>[email&amp;#160;protected]</a> if you have any questions or concerns.
+</p>
+<p>
+<b><i>Authorized Agent:</i></b> You can designate an authorized agent to submit requests on your behalf. However, we
+will require
+written proof of the agent’s permission to do so and verify your identity directly.
+</p>
+<p>
+<b><i>Right to Non-Discrimination:</i></b> You have the right not to receive discriminatory treatment by us for the
+exercise of
+any your rights.
+</p>
+<p>
+<b><i>California Do-Not-Track Notice:</i></b> We do not track our Website users over time and across third party
+websites and
+therefore do not respond to Do Not Track (DNT) signals.
+</p>
+<p>
+<b><u>NOTICE TO INTERNATIONAL RESIDENTS:</u></b> Timus is headquartered in the United States. The Website,
+Management Portal, and
+Timus Connect are primarily operated and managed on servers located and operated within the United States. In order
+to use the Website or Services, you may be sending your personal information outside of the country where you reside
+or are located, including to the United States. Accordingly, if you reside or are located outside of the United
+States, your personal information may be transferred outside of the country where you reside or are located,
+including to countries that may not or do not provide the same level of protection for your personal information. We
+are committed to protecting the privacy and confidentiality of personal information when it is transferred.
+</p>
+<p>
+<b><u>ADDITIONAL INFORMATION FOR USERS IN THE EUROPEAN ECONOMIC AREA AND UNITED KINGDOM:</u></b> Timus is
+established in the
+United States and has operations and service providers in the United States and throughout the world. As such, we
+and our service providers may transfer your personal information to, or access it in, jurisdictions that may not
+provide levels of data protection equivalent to those in your country of residence. By using the Website or
+Services, or otherwise interacting with us, regardless of where you live or where you provide information to us, you
+consent to our use and our service providers’ use of your personal information worldwide and to the transfer of your
+personal information to countries outside of your country of residence, including the United States. In certain
+circumstances, courts, regulatory agencies, law enforcement agencies, or security authorities in those other
+countries may be entitled to access your personal information.
+</p>
+<p>
+Timus is aware of the July 16, 2020 ruling by the European Court of Justice invalidating the EU-US Privacy Shield
+Framework. Accordingly, we will take adequate measures designed to protect the transfer of Personal Information of
+individuals in the European Economic Area (EU Member States, Iceland, Liechtenstein and Norway) (“<b>EEA</b>”), such
+as
+relying on the European Commission-approved Standard Contractual Clauses (“<b>EU SCCs</b>”) as a legal mechanism for
+such
+transfer, or other adequate transfer mechanism as required under relevant data protection laws, as well as
+additional safeguards, where appropriate. A copy of these clauses may be obtained by contacting us at the email
+address listed below.
+</p>
+<p>
+For transfers to or from the United Kingdom (“<b>UK</b>”), we make use of the EU SCCs, as modified by the UK’s
+International Data Transfer Addendum (collectively the “<b>UK SCCs</b>”). For individuals located in the EEA or the
+UK, the
+term “personal information,” as used in this section, is equivalent to “personal data” under applicable European and
+UK data protection legislation.
+</p>
+<p>
+If you are located in the EEA, the UK, or Switzerland, you have certain rights and protections under applicable law
+regarding the processing of your personal information, as defined by the General Data Protection Regulation
+(“<b>GDPR</b>”), and this section applies to you.
+</p>
+<p>
+<b><i>Legal Basis for Processing:</i></b> When we process your personal information, we will do so in reliance on
+the following
+lawful bases:
+</p>
+<ul>
+<li>To perform our responsibilities under our contract with you (e.g., providing the services you requested).</li>
+<li>When we have a legitimate interest in processing your personal information to operate our business or protect
+our interests (e.g., to provide, maintain, and improve our services, conduct data analytics, and communicate
+with you).</li>
+<li>To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have
+opted out of non-administrative communications).</li>
+<li>When we have your consent to do so (e.g., when you opt in to receive non-administrative communications from
+us). When consent is the legal basis for our processing your personal information, you may withdraw such consent
+at any time.</li>
+</ul>
+<p>
+<b><i>Data Retention:</i></b> We store personal information associated with your account for as long as your account
+remains
+active. If you close your account, we will delete your account data within thirty (30) days, unless reasonably
+necessary to comply with our legal, regulatory, or other compliance obligations. We store other data for as long as
+necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes,
+including to meet our legal, regulatory, or other compliance obligations.
+</p>
+<p>
+<b><i>Your Rights:</i></b> For users in the European Union, according to the GDPR, you have the following statutory
+rights:
+</p>
+<ul>
+<li><b>Information.</b> At the point where personal information is collected from the data subject, as defined by
+the GDPR,
+or obtained from another source, there is a requirement to inform the data subject about our use of that
+personal
+information and the rights of data subjects over it. Compliance with this right is provided within this Privacy
+Policy.</li>
+<li><b>Access.</b> You have the right to obtain confirmation as to whether or not personal information concerning
+you is
+being processed, and, where that is the case, all necessary information to make the process transparent. You
+also
+have the right to obtain a copy of your personal information being processed.</li>
+<li><b>Rectification.</b> You have the right to require rectification of inaccurate data about you.</li>
+<li><b>Erasure.</b> You have the right to ask for the deletion of your data in certain circumstances.</li>
+<li><b>Restrict processing.</b> You have the right to restrict processing of data under certain specified
+circumstances.
+</li>
+<li><b>Data portability.</b> You have the right to request for the receipt or the transfer to another organization,
+in a
+machine-readable form, of your personal information.</li>
+<li><b>Object to processing.</b> You have the right to ask us to stop using all or some of your personal information
+under
+certain specified circumstances.</li>
+<li><b>Right to withdraw consent.</b> When you have given your explicit consent for the processing of your data, you
+can
+withdraw it at any time without justification. The withdrawal of consent will not affect the lawfulness of
+processing based on consent before its withdrawal.</li>
+</ul>
+<p>
+If would like to exercise your rights, please let us know by sending an email at <a href=&quot;/cdn-cgi/l/email-protection&quot; class=&quot;__cf_email__&quot; data-cfemail=&quot;e68a8381878aa6928f8b93958883929189948d95c885898b&quot;>[email&amp;#160;protected]</a>.
+</p>
+<p>
+You also have the right to lodge a complaint with your local Data Protection Authority or to the Data Protection
+Authority where the alleged infringement took place.
+</p>
+<p>
+<i>This Privacy Policy was last amended on 19 January 2023.</i>
+</p>
+<script data-cfasync=&quot;false&quot; src=&quot;/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js&quot;></script><script src=&quot;https://www.timusnetworks.com/theme/assets/js/jquery-3.6.0.min.js&quot;></script>
+<script>
+    $(document).ready(function() {
+        var cookie = $(&quot;a[href$='Click here']&quot;);
+        cookie.attr('href', 'javascript:void(0);');
+        cookie.removeAttr('target');
+
+        $(cookie).click(function() {
+            var _hsp = window._hsp = window._hsp || [];
+            _hsp.push(['showBanner']);
+        })
+
+    })
+</script>" style="height: 500px; width: 100%;"></iframe>
+  (Session info: chrome=121.0.6167.86)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a195882608dfb95d5cb0234cf8e5bad, clickElement {id=2321BD2118C7684DA4CC629D51AE7CD4_element_313}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.86, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\omery\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63649/devtoo..., se:cdpVersion: 121.0.6167.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]]
+Session ID: 0a195882608dfb95d5cb0234cf8e5bad--------- clicked by js  
+2024-01-29 17:18:43,895 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:18:43,903 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:18:43,910 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:18:44,560 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:18:44,884 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0a195882608dfb95d5cb0234cf8e5bad)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 17:19:05,750 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:19:07,294 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:19:10,968 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:19:24,716 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:19:24,966 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:19:25,557 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:19:25,579 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:19:26,710 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:19:26,927 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:19:27,319 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:19:27,971 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:19:27,978 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:19:28,997 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:19:29,140 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:19:29,447 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (9f5864a0fe2edaa61bc6bf5428ac6972)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 17:38:07,725 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:38:08,165 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:38:11,691 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-29 17:38:11,881 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:38:26,229 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:38:26,424 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:38:27,194 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:38:27,215 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:38:28,238 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:38:28,456 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:38:28,737 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:38:29,449 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:38:29,457 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:38:30,465 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:38:30,574 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:38:30,906 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 17:38:32,278 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:38:32,497 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-29 17:38:32,664 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-29 17:38:32,770 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (760e904f1f12f8cce0e8fd0fc16e1c5a)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-29 17:38:38,957 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-29 17:40:16,122 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:40:16,541 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 17:40:20,980 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-29 17:40:21,178 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 17:40:35,728 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 17:40:35,972 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 17:40:36,501 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:40:36,521 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:40:37,534 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:40:37,703 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:40:38,072 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 17:40:38,814 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 17:40:38,822 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 17:40:39,832 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 17:40:39,926 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 17:40:40,265 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (4a0dbee9addd1c93c9334a414921d4f6)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 17:40:40,590 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 17:40:44,059 INFO  [Log] Main Page opened successfully 
+2024-01-29 17:40:44,473 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (cfb9cd7f7bb6e2a444e4480049ae6ccc)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-29 17:40:44,649 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (cfb9cd7f7bb6e2a444e4480049ae6ccc)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-29 17:40:44,764 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (cfb9cd7f7bb6e2a444e4480049ae6ccc)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-29 17:40:51,198 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-29 17:40:52,413 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 18:02:15,172 INFO  [Log] Main Page opened successfully 
+2024-01-29 18:02:15,504 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 18:02:20,098 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-29 18:02:20,371 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 18:02:41,934 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 18:02:42,172 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 18:02:42,761 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 18:02:42,786 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 18:02:43,812 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 18:02:44,179 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 18:02:44,546 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 18:02:45,299 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 18:02:45,309 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 18:02:46,327 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 18:02:46,482 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 18:02:46,846 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0ecf72ab6c9d92448d2b95d9cc8bbdf7)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 18:02:48,914 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 18:02:54,237 INFO  [Log] Main Page opened successfully 
+2024-01-29 18:02:57,652 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (afa75ecb45b60ae97e65d1f90ea36189)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-29 18:02:58,118 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (afa75ecb45b60ae97e65d1f90ea36189)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-29 18:02:58,515 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (afa75ecb45b60ae97e65d1f90ea36189)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-29 18:03:07,188 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-29 20:25:27,518 INFO  [Log] Main Page opened successfully 
+2024-01-29 20:25:27,738 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-29 20:25:31,471 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-29 20:25:31,673 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-29 20:25:44,836 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-29 20:25:45,018 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-29 20:25:45,622 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 20:25:45,652 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 20:25:46,689 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 20:25:53,339 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 20:25:53,743 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-29 20:25:54,410 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-29 20:25:54,417 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-29 20:25:55,436 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-29 20:25:55,534 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-29 20:25:55,870 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (ae1e94340c0de4ee6e8cfbad75f78491)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-29 20:25:56,294 INFO  [DriverManager] Driver Closed...... 
+2024-01-29 20:25:59,720 INFO  [Log] Main Page opened successfully 
+2024-01-29 20:25:59,985 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (a7c7c6b62da32852bb008deb14540b9f)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-29 20:26:00,127 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (a7c7c6b62da32852bb008deb14540b9f)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-29 20:26:00,273 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (a7c7c6b62da32852bb008deb14540b9f)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-29 20:26:06,539 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-29 20:26:07,725 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:39:01,484 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:39:02,085 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (5477385400a32229203325e7699ff4d1)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:39:05,245 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (5477385400a32229203325e7699ff4d1)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:39:05,484 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (5477385400a32229203325e7699ff4d1)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:39:24,001 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:39:26,957 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:39:53,201 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:39:55,662 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:39:59,120 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:39:59,372 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:40:19,335 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 11:40:19,589 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 11:40:20,301 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:40:20,324 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:40:21,350 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:40:21,546 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:40:21,938 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 11:40:22,751 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:40:22,759 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:40:23,777 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:40:23,904 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:40:24,272 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 11:40:25,259 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (7764fdf300e3701c65811fef0026335b)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 11:40:43,904 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:42:29,116 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:42:30,643 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:42:30,846 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:42:33,719 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:42:33,873 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:42:44,108 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 11:42:44,277 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 11:42:44,802 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:42:44,819 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:42:45,831 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:42:45,994 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:42:46,521 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 11:42:46,992 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:42:47,000 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:42:48,021 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:42:48,128 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:42:48,448 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 11:42:49,570 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:42:49,753 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 11:42:49,884 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 11:42:49,973 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (438762c8484ec38848d093a752701e07)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 11:42:55,958 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 11:42:57,118 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:47:06,384 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:47:09,199 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:47:09,420 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:47:12,995 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:47:13,183 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:47:29,139 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 11:47:29,443 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 11:47:30,079 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:47:30,097 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:47:31,111 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:47:31,255 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:47:31,637 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 11:47:32,343 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:47:32,349 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:47:33,358 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:47:33,458 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:47:33,796 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 11:47:34,970 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:47:35,170 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 11:47:35,314 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 11:47:35,416 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (35d82f6990c052681ba4c7858bfb250a)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 11:47:42,121 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 11:47:43,551 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:48:59,518 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:49:01,298 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:49:01,565 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:49:05,607 INFO  [BasePageMethods] Sent text is test@test.com to [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:49:06,005 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:49:23,951 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 11:49:24,201 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 11:49:24,761 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:49:24,788 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:49:25,830 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:49:26,041 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:49:26,404 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 11:49:27,101 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:49:27,110 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:49:28,133 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:49:28,266 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:49:28,642 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (991d47742e6c65f6384b40e06ebde13a)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 11:53:55,921 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:53:57,751 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:53:58,030 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:54:01,595 INFO  [BasePageMethods] Sent text is test3@test.com to [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 11:54:01,909 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 11:54:19,593 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 11:54:19,833 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 11:54:20,562 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:54:20,582 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:54:21,608 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:54:21,757 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:54:22,141 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 11:54:22,753 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 11:54:22,761 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 11:54:23,785 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 11:54:23,908 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 11:54:24,284 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 11:54:26,608 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:54:26,848 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 11:54:27,025 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 11:54:27,153 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (91e33f919eeccd9092257b777abed4bb)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 11:54:33,468 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 11:54:34,997 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 11:56:08,418 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:56:11,832 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:56:12,252 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (f919678ff3f24a6916f30eccf75de92a)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 11:56:20,295 INFO  [Log] Main Page opened successfully 
+2024-01-30 11:56:20,664 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (f919678ff3f24a6916f30eccf75de92a)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 11:56:21,311 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (f919678ff3f24a6916f30eccf75de92a)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 11:56:21,477 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (f919678ff3f24a6916f30eccf75de92a)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 11:56:30,344 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 12:05:05,741 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:05:08,921 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:05:09,351 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 12:05:12,988 INFO  [BasePageMethods] Sent text is test2@test.com to [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 12:05:13,288 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 12:05:30,928 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 12:05:31,288 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 12:05:31,937 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 12:05:31,958 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 12:05:33,013 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 12:05:33,478 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 12:05:33,688 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 12:05:34,306 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 12:05:34,315 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 12:05:35,333 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 12:05:35,452 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 12:05:35,817 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 12:05:38,002 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:05:38,241 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 12:05:38,400 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 12:05:38,530 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (872bf936a6ff696500ec5c091914db66)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 12:05:46,222 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 12:05:47,706 INFO  [DriverManager] Driver Closed...... 
+2024-01-30 12:06:27,774 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:06:29,474 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:06:29,726 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//span[normalize-space()='Create Account'])[1]] 
+2024-01-30 12:06:34,693 INFO  [BasePageMethods] Sent text is test4@test.com to [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//input[@data-testid='register-email-input'])] 
+2024-01-30 12:06:34,980 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//div[@data-testid='register-country-dropdown'])] 
+2024-01-30 12:06:53,184 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//li[@class='el-select-dropdown__item'])] 
+2024-01-30 12:06:53,450 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//span[normalize-space()='Privacy Policy'])[1]] 
+2024-01-30 12:06:54,050 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 12:06:54,073 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 12:06:55,094 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 12:06:55,790 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 12:06:56,191 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//span[normalize-space()='Terms of Service'])[1]] 
+2024-01-30 12:06:56,871 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: //iframe[@data-testid='pages-register-index-fnkwbxnok']] 
+2024-01-30 12:06:56,880 INFO  [BasePageMethods] Sent key ArrowDown 
+2024-01-30 12:06:57,890 INFO  [BasePageMethods] Sent key PageUP 
+2024-01-30 12:06:58,018 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: //button[@data-testid='pages-register-index-zfrzzhrgq']] 
+2024-01-30 12:06:58,418 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//button[@data-testid='register-continue']/span)] 
+2024-01-30 12:07:00,706 INFO  [Log] Main Page opened successfully 
+2024-01-30 12:07:01,234 INFO  [BasePageMethods] Sent text is nepex86621@alibrs.com to [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//input[@type='text'])[1]] 
+2024-01-30 12:07:01,416 INFO  [BasePageMethods] Sent text is Timus2020** to [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//input[@type='password'])[1]] 
+2024-01-30 12:07:01,551 INFO  [BasePageMethods] Clicked element is [[ChromeDriver: chrome on windows (0dc36ac6e78aa4526a8d0099d0c66d72)] -> xpath: (//span[normalize-space()='Continue'])[1]] 
+2024-01-30 12:07:07,331 INFO  [BasePageMethods] Clicked element is Proxy element for: DefaultElementLocator 'By.xpath: //li[@data-testid='avatar-logout']' 
+2024-01-30 12:07:09,824 INFO  [DriverManager] Driver Closed...... 
